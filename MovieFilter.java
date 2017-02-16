@@ -41,7 +41,7 @@ public class MovieFilter {
 		
 		
 		//Ratings
-		/*try {
+		try {
 
 			String sCurrentLine;
 
@@ -59,10 +59,10 @@ public class MovieFilter {
 			} catch (IOException ex) {
 				ex.printStackTrace();
 			}
-		}*/
+		}
 		
 		//Users
-		/*try {
+		try {
 
 			String sCurrentLine;
 
@@ -80,7 +80,7 @@ public class MovieFilter {
 			} catch (IOException ex) {
 				ex.printStackTrace();
 			}
-		}*/
+		}
 
 	}
 
