@@ -27,7 +27,6 @@ public class MovieFilter {
 				moviesTable.put(mb.getMovieID(), mb);
 			}
 			
-			
 			System.out.println("Mvies list Size:::"+moviesTable.get(143).genres);
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -39,10 +38,8 @@ public class MovieFilter {
 			}
 		}
 		
-		
 		//Ratings
 		try {
-
 			String sCurrentLine;
 
 			br = new BufferedReader(new FileReader("C:/Users/Vinay Kumar/Desktop/Fragma_Data_Systems/ml-1m/ml-1m/ratings.dat"));
@@ -50,7 +47,6 @@ public class MovieFilter {
 			while ((sCurrentLine = br.readLine()) != null) {
 				System.out.println(sCurrentLine);
 			}
-
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -63,7 +59,6 @@ public class MovieFilter {
 		
 		//Users
 		try {
-
 			String sCurrentLine;
 
 			br = new BufferedReader(new FileReader("C:/Users/Vinay Kumar/Desktop/Fragma_Data_Systems/ml-1m/ml-1m/users.dat"));
@@ -81,7 +76,5 @@ public class MovieFilter {
 				ex.printStackTrace();
 			}
 		}
-
 	}
-
 }
