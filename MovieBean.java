@@ -28,7 +28,4 @@ public class MovieBean {
 	public void setGenres(String genres) {
 		this.genres = genres;
 	}
-
-	
-	
 }
