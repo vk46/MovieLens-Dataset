@@ -2,7 +2,6 @@ package com.vinay.movies.bean;
 
 public class UserBean {
 
-	
 	public String gender="",occupation="",zipCode="";
 	public int userID=0,age=0;
 	
@@ -46,6 +45,4 @@ public class UserBean {
 	public void setZipCode(String zipCode) {
 		this.zipCode = zipCode;
 	}
-	
-	
 }
