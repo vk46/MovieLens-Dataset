@@ -1,7 +1,7 @@
 # MovieLens 1M Dataset
-The tasks mentioned below revolves around movies data-set. The data-set contains 3 files, which are: Movies Data, Ratings Data and Users Data.
+The tasks mentioned below revolves around movies data-set. The data-set contains 3 files, which are: Movies, Ratings and Users Data.
 
-We are required to write a code to get results for the following questions:
+Developer required to build code that perform below tasks as follows:
 -	Top ten most viewed movies with their movies Name (Ascending or Descending order) 
 -	Top twenty rated movies (Condition: The movie should be rated/viewed by at least 40 users) 
 -	Top twenty rated movies (which is calculated in the previous step) with no of views in the following age group :
