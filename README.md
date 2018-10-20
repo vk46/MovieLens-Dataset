@@ -10,5 +10,4 @@ Developer required to build code that perform below tasks as follows:
   3. Adult (> 40 years))
 
 # Dataset
-This link contains Movies dataset.
-Dataset : https://grouplens.org/datasets/movielens/1m/
+Movies dataset can be downloaded from this link as zip format: https://grouplens.org/datasets/movielens/1m/
