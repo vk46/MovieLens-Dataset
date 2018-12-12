@@ -1,4 +1,4 @@
-# MovieLens 1M Dataset
+### MovieLens 1M Dataset
 The tasks mentioned below revolves around movies data-set. The data-set contains 3 files, which are: Movies, Ratings and Users Data.
 
 Developer required to build code that perform below tasks as follows:
@@ -9,5 +9,5 @@ Developer required to build code that perform below tasks as follows:
   2. Young Adult (20-40 years)
   3. Adult (> 40 years))
 
-# Dataset
+### Dataset
 Movies dataset can be downloaded from this link as zip format: https://grouplens.org/datasets/movielens/1m/
